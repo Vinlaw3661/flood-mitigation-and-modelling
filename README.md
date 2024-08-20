@@ -38,7 +38,5 @@ Using the results from our runoff calculations, we optimized our flood mitigatio
 
 A heatmap was created in Python to identify and localize disaster risk areas within the township. This heatmap highlights zones with the highest frequency and severity of flooding, allowing for targeted mitigation efforts.
 
-## ArcGIS Story Map
 
-Our findings are presented in an [ArcGIS Story Map](YOUR_ARCGIS_STORY_MAP_URL), which provides an interactive and visual representation of our research. The story map includes detailed analysis, maps, and images to help stakeholders understand the flood risks and proposed mitigation strategies.
 
