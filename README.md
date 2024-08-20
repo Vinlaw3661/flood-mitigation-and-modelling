@@ -1,4 +1,4 @@
-# Flooding and Flood Mitigation in Washington Township, Bergen County
+# Flooding and Flood Mitigation in Washington the Township, Bergen County
 
 This repository contains research and findings on flooding and flood mitigation strategies in Washington Township, Bergen County. Our team conducted extensive research using a variety of tools and methodologies to analyze the area, identify risks, and propose solutions to mitigate flooding effectively.
 
