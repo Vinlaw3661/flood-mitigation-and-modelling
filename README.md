@@ -11,10 +11,6 @@ This repository contains research and findings on flooding and flood mitigation 
    - [SCS Runoff Calculations](#scs-runoff-calculations)
    - [Flood Mitigation Optimization](#flood-mitigation-optimization)
    - [Disaster Risk Heatmap](#disaster-risk-heatmap)
-3. [ArcGIS Story Map](#arcgis-story-map)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
