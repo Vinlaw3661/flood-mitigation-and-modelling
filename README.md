@@ -20,7 +20,7 @@ Flooding is a significant concern in Washington Township, Bergen County. Our tea
 
 ### ArcGIS Analysis
 
-We utilized ArcGIS to study the bathymetry, land use, and vegetation cover of the township. This analysis helped us understand the topography and land characteristics that contribute to flooding. Our findings were compiled into an [ArcGIS Story Map](#arcgis-story-map) to visually communicate our results.
+We utilized ArcGIS to study the bathymetry, land use, and vegetation cover of the township. This analysis helped us understand the topography and land characteristics that contribute to flooding. Our findings were compiled into an [ArcGIS Story Map]([#arcgis-story-map](https://vinlaw3661.github.io/Flooding-Research-Story-Map/)) to visually communicate our results.
 
 ### Plant Species Identification
 
